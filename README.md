@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/acanlasb?tab=repositories](https://github.com/acanlasb?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@acanlasb](https://medium.com/@acanlasb)
-
 - 📫 How to reach me **angelbalandra1@gmail.com**
 
 - ⚡ Fun fact **I watch horror movies with lights on.**
