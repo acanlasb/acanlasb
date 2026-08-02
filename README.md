@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working on [Social Networking App](https://github.com/acanlasb/Social-Networking-App.git)
 
-- 🌱 I’m currently learning **C++, Go, and Java**
-
 - 👨‍💻 All of my projects are available at [https://github.com/acanlasb?tab=repositories](https://github.com/acanlasb?tab=repositories)
 
 - 📫 How to reach me **angelbalandra1@gmail.com**
-
-- ⚡ Fun fact **I watch horror movies with lights on.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
