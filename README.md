@@ -35,4 +35,4 @@ When I'm not coding or exploring new tech stacks, you can find me:
 - 🏊 Outdoor swimming & running across NSW national parks.
 - 🚶 Taking part in distance running/walking challenges.
 
-📫 **Let's Connect:** [Website](https://icwib.org/medium-blogs/) | [Email](mailto:angelbalandra1@gmail.com)
+📫 **Let's Connect:** [Email](mailto:angelbalandra1@gmail.com)
